@@ -29,6 +29,7 @@ Practical, repeatable frameworks built to standardize execution across the custo
 * **[30-60-90 Day Onboarding Blueprint (SMB to Enterprise)](playbooks/onboarding-checklist.md)** — A structured implementation playbook featuring standardized Sales-to-CS handoffs, milestone tracking, and early adoption checkpoints to compress time-to-value.
 * **[QBR Preparation & Executive Discovery Guide](playbooks/qbr-questions.md)** — Strategic discovery prompts and executive checklists for tying product usage to executive business outcomes.
 * **[At-Risk Account Turnaround Playbook](playbooks/turnaround-unhappy-customer.md)** — Step-by-step escalation, root-cause stabilization, and executive recovery workflow for turning around at-risk accounts.
+* **[Low Engagement & Silent Churn Re-Engagement Playbook](playbooks/low-engagement-reengagement.md)** — Telemetry-driven early-warning triggers and value-first re-engagement workflows to revive stalled adoption before renewal risk escalates.
 
 ---
 
