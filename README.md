@@ -38,7 +38,7 @@ Operational systems designed to eliminate friction and scale Customer Success te
 
 * **Sales-to-CS Handoff Standard Operating Procedure:** Structured intake criteria ensuring commercial context, technical requirements, and success metrics transfer cleanly before kickoff.
 * **Tiered Escalation & Incident Workflow:** Clear severity definitions, SLA response cadences, and cross-functional communication loops between CS, Support, and Engineering.
-* **Automated Lifecycle Touchpoints (HubSpot):** Trigger-based customer communications for onboarding milestones, adoption drop-offs, and renewal runway alerts.
+* **Automated Lifecycle Touchpoints (HubSpot/Salesforce):** Trigger-based customer communications for onboarding milestones, adoption drop-offs, and renewal runway alerts.
 
 ---
 
