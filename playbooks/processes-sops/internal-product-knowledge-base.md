@@ -6,7 +6,7 @@
 
 ## Core Knowledge Architecture
 
-| Knowledge Pillar | Contents & Artifacts | Primary Owner | Update Cadence |
+| Knowledge Pillar | Contents | Primary Owner | Update Cadence |
 | :--- | :--- | :--- | :--- |
 | **Product & Feature Deep Dives** | Core workflow guides, configuration prerequisites, permissions matrices, and known limitations | CS Operations & Product | On every feature release |
 | **Release Enablement Briefs** | Internal "What Changed & Why It Matters" summaries, customer talk tracks, and migration steps | Customer Success Lead | Bi-weekly / Sprint release |
