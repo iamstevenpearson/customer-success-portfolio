@@ -37,7 +37,7 @@ Practical, repeatable frameworks built to standardize execution across the custo
 Operational systems designed to eliminate friction and scale Customer Success teams:
 
 * **[Sales-to-CS Handoff Standard Operating Procedure](playbooks/processes-sops/sales-to-cs-handoff.md):** Structured intake criteria ensuring commercial context, technical requirements, and success metrics transfer cleanly before kickoff.
-* **Tiered Escalation & Incident Workflow:** Clear severity definitions, SLA response cadences, and cross-functional communication loops between CS, Support, and Engineering.
+* **[Tiered Escalation & Incident Workflow](playbooks/processes-sops/tiered-escalation-workflow.md):** Clear severity definitions, SLA response cadences, and cross-functional communication loops between CS, Support, and Engineering.
 * **Automated Lifecycle Touchpoints (HubSpot/Salesforce):** Trigger-based customer communications for onboarding milestones, adoption drop-offs, and renewal runway alerts.
 * **[Internal Product Knowledge & Enablement System](playbooks/processes-sops/internal-product-knowledge-base.md):** Centralized knowledge architecture and closed-loop documentation workflow for scaling product expertise, release readiness, and troubleshooting across CS and Support teams.
 
