@@ -6,7 +6,7 @@
 
 ## Segment Calibration Matrix
 
-| Segment | Kickoff Window | Cadence & Governance | Primary Success Criteria |
+| Segment | Kickoff Window | Cadence | Primary Success Criteria |
 | :--- | :--- | :--- | :--- |
 | **SMB / Commercial** | Within 3 business days | Async digital enablement + 2 live milestone checkpoints | Core workflow live in <14 days; 80%+ active seat utilization |
 | **Mid-Market** | Within 5 business days | Weekly implementation calls + Day 30 sponsor pulse | Primary integration validated; repeatable team playbooks active |
