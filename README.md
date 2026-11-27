@@ -48,9 +48,9 @@ Operational systems designed to eliminate friction and scale Customer Success te
 
 Templates and visual assets used directly with external stakeholders:
 
-* **Executive QBR Deck ([`assets/`](./assets/)):** Structured presentation framework covering business objectives, adoption KPIs, ROI milestones, and joint forward roadmaps.
-* **Mutual Success Plan Template:** Shared accountability tracker aligning client stakeholders and internal teams on launch deliverables and target outcomes.
-* **Customer Release Notes & Enablement Briefs:** Clear, outcome-focused product update templates built to drive feature adoption rather than just listing specs.
+* **[Executive QBR Deck](assets/qbr-deck.pdf):** Structured presentation framework covering business objectives, adoption KPIs, ROI milestones, and joint forward roadmaps.
+* **[Mutual Success Plan Template](playbooks/customer-facing-examples/mutual-success-plan.md):** Shared accountability tracker aligning client stakeholders and internal teams on launch deliverables and target outcomes.
+* **[Customer Release Notes & Enablement Briefs](playbooks/customer-facing-examples/customer-release-notes.md):** Clear, outcome-focused product update templates built to drive feature adoption rather than just listing specs.
 
 ---
 
