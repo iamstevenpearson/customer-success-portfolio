@@ -43,6 +43,6 @@
 >
 > Over the past **[Quarter/Year]**, your team has:
 > * Achieved **[Key Metric 1 — e.g., 88% active seat adoption across 45 users]**
-> * Reduced **[Manual Workflow / Bottleneck]** by **[Target Outcome]**
+> * Reduced **[Manual Workflow / Pain Points]** by **[Target Outcome]**
 >
 > I'd welcome 20 minutes next week to learn where your priorities are focused for the upcoming quarter and ensure our roadmap supports your team's goals. Are you available on **[Day/Time]** or **[Day/Time]**?
