@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm **Steven Pearson**, a Customer Success & Account Strategy Leader with **18 years of overall client-facing experience**, including **10 years in B2B SaaS Customer Success and Account Management**. I partner with mid-market and enterprise organizations—from high-velocity SMB teams to complex multi-lane enterprise accounts—to drive product adoption, protect revenue, and turn customers into long-term advocates.
+I'm **Steven Pearson**, a Customer Success & Account Strategy Leader with **18 years of overall client-facing experience**, including **10 years in B2B SaaS Customer Success and Account Management**. I partner with organizations ranging from high-velocity SMB teams to complex, multi-lane enterprise accounts to drive product adoption, protect revenue, and turn customers into long-term advocates.
 
 ### Core Impact & Specialties
 * **Revenue Protection & Strategic Growth:** Managed portfolios of **300+ mid-market and enterprise accounts** ($10M+ ARR), maintaining **95%+ gross retention** and structuring **$1M+ multi-year renewals and expansions**.
