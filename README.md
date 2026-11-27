@@ -30,6 +30,8 @@ Practical, repeatable frameworks built to standardize execution across the custo
 * **[QBR Preparation & Executive Discovery Guide](playbooks/qbr-questions.md)** — Strategic discovery prompts and executive checklists for tying product usage to executive business outcomes.
 * **[At-Risk Account Turnaround Playbook](playbooks/turnaround-unhappy-customer.md)** — Step-by-step escalation, root-cause stabilization, and executive recovery workflow for turning around at-risk accounts.
 * **[Low Engagement & Silent Churn Re-Engagement Playbook](playbooks/low-engagement-reengagement.md)** — Telemetry-driven early-warning triggers and value-first re-engagement workflows to revive stalled adoption before renewal risk escalates.
+* * **[Executive Sponsor Change & Champion Departure Playbook](playbooks/champion-departure-playbook.md)** — A 14-day multi-threading and stakeholder stabilization protocol to protect renewal continuity during leadership transitions.
+* **[Expansion & Upsell Discovery Playbook](playbooks/expansion-upsell-playbook.md)** — Value-led telemetry triggers and consultative discovery workflows for converting high adoption into Net Revenue Retention (NRR) growth.
 
 ---
 
