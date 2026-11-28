@@ -35,7 +35,7 @@ Practical, repeatable frameworks built to standardize execution across the custo
 * **[Enablement & Visual Documentation SOP (Scribe & Loom)](playbooks/processes-sops/sop-visual-documentation-scribe-loom.md)** — Standardized workflow for building scannable step-by-step guides and concise video walkthroughs to accelerate onboarding and prevent knowledge loss.
 * **[Core CSM & Account Management KPIs & Execution Playbook](playbooks/csm-am-kpi-execution-playbook.md)** — Complete scorecard and operational workflows for driving GRR, NRR, product adoption, TTFV, and executive QBR coverage.
 * **[AI & Automated Workflow Systems Playbook](playbooks/processes-sops/ai-cs-workflow-automation.md)** — AI-driven insights, automated usage signals, and CRM workflows that support proactive retention and account growth.
-* * **[Cross-Functional Alignment Playbook (Sales, Product, Engineering & AM)](playbooks/cross-functional-alignment-playbook.md)** — Operating rhythms, Sales to CS handoff standards, ARR-weighted Voice of the Customer loops, and escalation governance.
+* **[Cross-Functional Alignment Playbook (Sales, Product, Engineering & AM)](playbooks/cross-functional-alignment-playbook.md)** — Operating rhythms, Sales to CS handoff standards, ARR-weighted Voice of the Customer loops, and escalation governance.
 
 ---
 
