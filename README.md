@@ -1,4 +1,4 @@
-![Steven Pearson Customer Success & Account Management Portfolio](github-portfolio-banner.jpg)
+
 
 # Customer Success & Account Strategy Portfolio
 
