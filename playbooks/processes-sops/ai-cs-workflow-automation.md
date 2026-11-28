@@ -18,7 +18,7 @@
 
 ---
 
-## 2. Guardrails: Where Automation Stops and Human Judgment Leads
+## 2. Automation Boundaries: Where Human Judgment Matters Most
 
 1. **Automate Preparation, Never Executive Relationships:** Use AI to summarize call notes, spot usage anomalies, and draft initial QBR readouts, while keeping strategic framing, renewal negotiations, and executive alignment 100% human-led.
 2. **Verify Data Before Sharing Externally:** Always audit AI-generated usage summaries and ROI calculations against source CRM and product telemetry before presenting to customer stakeholders.
@@ -26,7 +26,7 @@
 
 ---
 
-## 3. Implementation & Governance
+## 3. Implementation
 
 * **Single Source of Truth:** Sync all automated health alerts, lifecycle stages, and expansion flags directly into your core CRM and Customer Success platform (Salesforce, HubSpot, Gainsight, or Vitally).
 * **Quarterly Workflow Audit:** Review automated email sequences and alert thresholds every quarter to eliminate alert fatigue and keep messaging aligned with current product releases.
