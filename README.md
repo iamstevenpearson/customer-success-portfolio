@@ -1,3 +1,5 @@
+![Steven Pearson Customer Success & Account Management Portfolio](github-portfolio-banner.jpg)
+
 # Customer Success & Account Strategy Portfolio
 
 [![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-Notion-5B2C6F?style=for-the-badge&logo=notion&logoColor=white)](https://stevenpearson.notion.site/Steven-Pearson-Customer-Success-Account-Strategy-4249c1391d6980d5a0aec01ea6458608)
