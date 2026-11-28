@@ -36,6 +36,7 @@ Practical, repeatable frameworks built to standardize execution across the custo
 * **[Executive Sponsor Change & Champion Departure Playbook](playbooks/champion-departure-playbook.md)** — A 14-day multi-threading and stakeholder stabilization protocol to protect renewal continuity during leadership transitions.
 * **[Cross-Functional Alignment Playbook (Sales, Product, Engineering & AM)](playbooks/cross-functional-alignment-playbook.md)** — Operating rhythms, Sales-to-CS handoff standards, ARR-weighted Voice of the Customer loops, and escalation governance.
 * **[Enablement & Visual Documentation SOP (Scribe & Loom)](playbooks/processes-sops/sop-visual-documentation-scribe-loom.md)** — A standardized workflow for building scannable step-by-step guides and concise video walkthroughs to accelerate onboarding and prevent knowledge loss.
+* **[Voice of the Customer & Product Feedback Loop Playbook](playbooks/voc-product-feedback-loop-playbook.md)** — Structured workflow for capturing, ARR weighting, and prioritizing customer insights with Product teams and closing the loop on shipped features.
 
 ---
 
