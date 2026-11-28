@@ -17,7 +17,7 @@ I'm **Steven Pearson**, a Customer Success and Account Management professional w
 * **Revenue Protection & Strategic Growth:** Managed portfolios of **300+ mid-market and enterprise accounts** ($10M+ ARR), maintaining **95%+ gross retention** and structuring **$1M+ multi-year renewals and expansions**.
 * **Customer Health Monitoring & Risk Prevention:** Built data-driven customer health frameworks for **$8M+ ARR portfolios** to surface churn signals early and trigger targeted intervention plays.
 * **Scalable Onboarding & Enablement:** Designed repeatable **30-60-90 day implementation blueprints** for SMB through enterprise segments, accelerating product adoption by **25%–35%**.
-* **Executive Alignment & CS Ops:** Led C-suite Quarterly Business Reviews (QBRs) and standardized cross-functional handoffs across **Salesforce, HubSpot, Gainsight, Zendesk, Looker, and Jira**.
+* **Executive Alignment & CS Ops:** Led C-suite Quarterly Business Reviews (QBRs) and standardized cross-functional handoffs across **Salesforce, HubSpot, Zoho, Zendesk, Looker, and Jira**.
 
 ---
 
