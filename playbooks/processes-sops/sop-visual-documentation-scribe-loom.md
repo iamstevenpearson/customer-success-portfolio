@@ -1,12 +1,12 @@
-# SOP: Async Enablement & Visual Workflow Documentation (Scribe & Loom)
+# SOP: Enablement & Visual Workflow Documentation (Scribe & Loom)
 
 **Owner:** Senior Customer Success Manager  
 **Audience:** Customer Success, Onboarding Specialists, Implementation, Support  
-**Purpose:** Replace dense text instructions and repetitive live walkthroughs with scannable step by step guides (Scribe) and concise video walkthroughs (Loom) to accelerate customer onboarding, prevent knowledge loss during team turnover, and standardize internal CS execution.
+**Purpose:** Replace dense text instructions and repetitive live walkthroughs with scannable step-by-step guides (Scribe) and concise video walkthroughs (Loom) to accelerate customer onboarding, prevent knowledge loss during team turnover, and standardize internal CS execution.
 
 ---
 
-## 1. Tool Selection Matrix
+## 1. Tool Selection
 
 Use the right medium based on the complexity of the workflow and how the customer or teammate will consume it:
 
