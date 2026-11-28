@@ -23,7 +23,7 @@
 
 ### Gross Revenue Retention (GRR) & Churn Prevention
 * **Start Renewal Defense 120 Days Out:** Never treat renewal as a 30-day administrative task. Audit seat utilization, support escalations, and champion stability at T minus 120, 90, and 60 days inside Salesforce, HubSpot, Gainsight, or Vitally.
-* **Run 30 Day Stabilization Sprints on Yellow/Red Accounts:** When usage drops or a champion leaves, immediately diagnose the workflow bottleneck, deliver targeted async enablement (Scribe + Loom), and lock in weekly milestone check ins until health returns to Green.
+* **Run 30 Day Stabilization Sprints on Yellow/Red Accounts:** When usage drops or a champion leaves, immediately diagnose the workflow bottleneck, deliver targeted async enablement (Scribe + Loom), and lock in weekly milestone check-ins until health returns to Green.
 * ** Multi-Thread Every Strategic Account:** Build relationships across at least three layers (day-to-day power users, operational managers, and the economic buyer) so single point turnover never threatens a renewal.
 
 ### Net Revenue Retention (NRR) & Expansion
@@ -44,6 +44,6 @@
 
 ## 3. Operating Rhythm for Quota & KPI Attainment
 
-* **Weekly Pipeline & Risk Triage (Monday):** Review Red/Yellow health alerts, open renewal forecasts within 90 days, and accounts crossing 80% seat capacity.
-* **Mid Quarter Forecast Calibration (Week 6):** Audit every renewal and expansion opportunity in CRM with concrete next steps, verified economic buyer sign off, and updated close dates.
-* **Post QBR Action Tracking (Within 24 Hours):** Send the 1 page QBR summary with assigned owners, target dates, and mutual accountability milestones logged in CRM.
+* **Weekly Pipeline & Risk Review (Monday):** Review Red/Yellow health alerts, open renewal forecasts within 90 days, and accounts crossing 80% seat capacity.
+* ** Mid-Quarter Forecast Calibration (Week 6):** Audit every renewal and expansion opportunity in CRM with concrete next steps, verified economic buyer sign off, and updated close dates.
+* **Post QBR Action Tracking (Within 24 Hours):** Send the 1-page QBR summary with assigned owners, target dates, and mutual accountability milestones logged in CRM.
