@@ -10,7 +10,7 @@
 
 Every account is evaluated continuously across four weighted pillars inside CRM and CS tooling (Salesforce, HubSpot, Gainsight, or Vitally):
 
-| Health Pillar | Weight | Leading Indicators Tracked | Red Flag Threshold |
+| Customer Health Category | Weight | Leading Indicators Tracked | Red Flag Threshold |
 | :--- | :--- | :--- | :--- |
 | **Product Adoption & Depth** | 35% | Weekly active users (WAU), license seat utilization, and core workflow completion | Seat utilization below 60% or 20%+ drop in weekly active usage over 14 days |
 | **Executive & Champion Engagement** | 25% | Cadence attendance, QBR participation, and broad stakeholder alignment | Primary champion unresponsive for 21 days or sole champion dependency |
