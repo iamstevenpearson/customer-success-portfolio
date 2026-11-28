@@ -38,7 +38,7 @@ Every account is evaluated continuously across four weighted pillars inside CRM 
 
 ---
 
-## 4. Operational Governance
+## 4. Operational Standards & Processes
 
 * **Weekly Portfolio Triage:** Review all Yellow and Red accounts every Monday morning, verifying that every at-risk account has a documented owner, root cause tag, and next action date in CRM.
 * **Leading Over Lagging Indicators:** Intervene on engagement dips and champion changes 90+ days ahead of contract expiration rather than waiting for renewal notice windows.
