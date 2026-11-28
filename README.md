@@ -45,6 +45,7 @@ Operational systems designed to eliminate friction and scale Customer Success te
 * **[Tiered Escalation & Incident Workflow](playbooks/processes-sops/tiered-escalation-workflow.md):** Clear severity definitions, SLA response cadences, and cross-functional communication loops between CS, Support, and Engineering.
 * **[Automated Lifecycle Touchpoints (HubSpot/Salesforce)](playbooks/processes-sops/automated-lifecycle-touchpoints.md):** Trigger-based customer communications for onboarding milestones, adoption drop-offs, and renewal runway alerts.
 * **[Internal Product Knowledge & Enablement System](playbooks/processes-sops/internal-product-knowledge-base.md):** Centralized knowledge architecture and closed-loop documentation workflow for scaling product expertise, release readiness, and troubleshooting across CS and Support teams.
+* **[Onsite Customer Visit Preparation & Execution SOP](playbooks/processes-sops/sop-onsite-customer-visit-prep.md)** — End-to-end checklist for pre-visit telemetry audits, multi-threaded agendas, live workflow shadowing, and 24-hour executive follow-up.
 
 
 ---
