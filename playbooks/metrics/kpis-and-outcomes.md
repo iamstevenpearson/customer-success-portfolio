@@ -19,7 +19,7 @@ Every account is evaluated continuously across four weighted pillars inside CRM 
 
 ---
 
-## 2. Health Tiers & Action Triggers
+## 2. Health Levels & Action Plans
 
 | Score Range | Health Status | Engagement Cadence | Required Operational Action |
 | :--- | :--- | :--- | :--- |
