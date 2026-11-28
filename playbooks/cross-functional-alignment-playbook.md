@@ -12,7 +12,7 @@
 | :--- | :--- | :--- | :--- |
 | **Account Executives (Sales)** | Seamless pre-sale to post sale transitions and commercial context transfer | Deal Handoff Call within 48 hours of Closed Won | Standardized Sales to CS Handoff Brief in CRM |
 | **Account Managers (AM)** | Joint whitespace mapping, renewal forecasting, and expansion execution | Bi weekly Account Territory Sync & 90 Day Renewal Review | Mutual Growth & Renewal Pipeline Tracker |
-| **Product Management** | Aggregating customer feature requests into quantified revenue impact | Monthly Voice of the Customer (VoC) Product Sync | ARR Weighted Feature Request & Roadmap Brief |
+| **Product Management** | Connecting Customer Feedback to Revenue Opportunities | Monthly Voice of the Customer (VoC) Product Sync | ARR Weighted Feature Request & Roadmap Brief |
 | **Engineering & Support** | Rapid triage of critical bugs, P1 escalations, and technical blockers | Weekly Escalation Triage & Dedicated Incident Channels | Root Cause Analysis (RCA) & Customer Status Update |
 | **Implementation & Onboarding** | Eliminating setup bottlenecks and accelerating time to first value | Weekly Kickoff & Go Live Readiness Review | 30 60 90 Day Implementation Scorecard |
 
