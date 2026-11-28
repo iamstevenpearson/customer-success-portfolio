@@ -9,13 +9,13 @@
   <a href="https://www.linkedin.com/in/stevenpearsonjr">
     <img src="https://img.shields.io/badge/linkedin-Steven%20Pearson-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/iamstevenpearson/customer-success-portfolio/tree/main/playbooks">
+  <a href="#featured-playbooks">
     <img src="https://img.shields.io/badge/playbooks-Retention%20%26%20Onboarding-4A235A" alt="Playbooks" />
   </a>
-  <a href="https://github.com/iamstevenpearson/customer-success-portfolio/tree/main/playbooks">
+  <a href="#processes--sops">
     <img src="https://img.shields.io/badge/systems-Workflows%20%26%20SOPs-6C3483" alt="Processes & SOPs" />
   </a>
-  <a href="https://github.com/iamstevenpearson/customer-success-portfolio/tree/main/assets">
+  <a href="#customer-facing-examples">
     <img src="https://img.shields.io/badge/assets-QBR%20%26%20Success%20Plans-7D3C98" alt="Customer Assets" />
   </a>
   <a href="https://github.com/iamstevenpearson/customer-success-portfolio/releases">
