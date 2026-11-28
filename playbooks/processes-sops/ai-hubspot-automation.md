@@ -2,7 +2,7 @@
 
 
 
-# AI + HubSpot Automation for Scaled Customer Communication
+# AI + Automation for Scaled Customer Communication
 
 **Context (Dispatch):**  
 We needed to scale communications with mid-market HVAC and construction clients without overwhelming the CS team.  
