@@ -45,13 +45,17 @@ Practical, repeatable frameworks built to standardize execution across the custo
 
 ## Processes & SOPs
 
-Operational systems designed to eliminate friction and scale Customer Success teams:
+Operational systems designed to eliminate friction, standardize execution, and scale Customer Success teams:
 
-* **[Sales-to-CS Handoff Standard Operating Procedure](playbooks/processes-sops/sales-to-cs-handoff.md):** Structured intake criteria ensuring commercial context, technical requirements, and success metrics transfer cleanly before kickoff.
-* **[Tiered Escalation & Incident Workflow](playbooks/processes-sops/tiered-escalation-workflow.md):** Clear severity definitions, SLA response cadences, and cross-functional communication loops between CS, Support, and Engineering.
-* **[Automated Lifecycle Touchpoints (HubSpot/Salesforce)](playbooks/processes-sops/automated-lifecycle-touchpoints.md):** Trigger-based customer communications for onboarding milestones, adoption drop-offs, and renewal runway alerts.
-* **[Internal Product Knowledge & Enablement System](playbooks/processes-sops/internal-product-knowledge-base.md):** Centralized knowledge architecture and closed-loop documentation workflow for scaling product expertise, release readiness, and troubleshooting across CS and Support teams.
-* **[Onsite Customer Visit Preparation & Execution SOP](playbooks/processes-sops/sop-onsite-customer-visit-prep.md):** Complete visit checklist covering pre-meeting platform reviews, stakeholder agendas, live workflow observation, and executive follow-up within 24 hours.
+- **[Sales-to-CS Handoff Standard Operating Procedure](https://github.com/iamstevenpearson/customer-success-portfolio/blob/main/playbooks/processes-sops/sales-to-cs-handoff.md):** Structured intake criteria ensuring commercial context, technical requirements, and success metrics transfer cleanly before kickoff.
+
+- **[Automated Lifecycle Touchpoints (HubSpot/Salesforce)](https://github.com/iamstevenpearson/customer-success-portfolio/blob/main/playbooks/processes-sops/automated-lifecycle-touchpoints.md):** Trigger-based customer communications for onboarding milestones, adoption drop-offs, and renewal runway alerts.
+
+- **[Internal Product Knowledge & Enablement System](https://github.com/iamstevenpearson/customer-success-portfolio/blob/main/playbooks/processes-sops/internal-product-knowledge-base.md):** Centralized knowledge architecture and closed-loop documentation workflow for scaling product expertise, release readiness, and troubleshooting across CS and Support teams.
+
+- **[Tiered Escalation & Incident Workflow](https://github.com/iamstevenpearson/customer-success-portfolio/blob/main/playbooks/processes-sops/tiered-escalation-workflow.md):** Clear severity definitions, SLA response cadences, and cross-functional communication loops between CS, Support, and Engineering.
+
+- **[Onsite Customer Visit Preparation & Execution SOP](https://github.com/iamstevenpearson/customer-success-portfolio/blob/main/playbooks/processes-sops/sop-onsite-customer-visit-prep.md):** Complete visit checklist covering pre-meeting platform reviews, stakeholder agendas, live workflow observation, and executive follow-up within 24 hours.
 
 
 ---
