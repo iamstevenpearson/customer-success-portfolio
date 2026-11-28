@@ -18,7 +18,7 @@
 
 1. **Validate Value First (Health Gate):** Never pitch expansion into an unresolved `SEV-1/SEV-2` issue or a Red health score; confirm core KPIs are green before opening commercial scope.
 2. **Quantify Current ROI:** Package hard usage metrics and time/cost savings into a crisp QBR or executive checkpoint readout.
-3. **Run Gap & Friction Discovery:** Ask forward-looking workflow questions (*"Where is your team still relying on manual spreadsheets outside the platform?"* or *"Which adjacent teams depend on these outputs?"*).
+3. **Run Gap & Friction Discovery:** Ask forward-looking workflow questions (*"Where is your team still relying on manual spreadsheets outside the platform?"* or *"Which teams depend on these outputs?"*).
 4. **Partner with Account Management / AE:** Align on pricing structure, co-terming options, and executive proposal framing so the customer experiences one unified commercial team.
 5. **Tie Expansion to Onboarding Milestones:** Once closed, immediately trigger a mini-onboarding sprint for new seats or modules so expansion revenue sticks through renewal.
 
