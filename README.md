@@ -31,8 +31,8 @@ Practical, repeatable frameworks built to standardize execution across the custo
 * **[At-Risk Account Turnaround Playbook](playbooks/turnaround-unhappy-customer.md)** — Step-by-step escalation, root-cause stabilization, and executive recovery workflow for turning around at-risk accounts.
 * **[Low Engagement & Silent Churn Re-Engagement Playbook](playbooks/low-engagement-reengagement.md)** — Early usage alerts and hands-on re-engagement workflows that get stalled accounts back on track before renewal.
 * **[Executive Sponsor Change & Champion Departure Playbook](playbooks/champion-departure-playbook.md)** — A 14-day multi-threading and stakeholder stabilization protocol to protect renewal continuity during leadership transitions.
-* **[Expansion & Upsell Discovery Playbook](playbooks/expansion-upsell-playbook.md)** — Value-led telemetry triggers and consultative discovery workflows for converting high adoption into Net Revenue Retention (NRR) growth.
-* **[Enablement & Visual Documentation SOP (Scribe & Loom)](playbooks/processes-sops/sop-visual-documentation-scribe-loom.md)** — Standardized workflow for building scannable step by step guides and concise video walkthroughs to accelerate onboarding and prevent knowledge loss.
+* **[Expansion & Upsell Discovery Playbook](playbooks/expansion-upsell-playbook.md)** — Usage-based growth signals and consultative discovery workflows that turn high adoption accounts into smooth expansions.
+* **[Enablement & Visual Documentation SOP (Scribe & Loom)](playbooks/processes-sops/sop-visual-documentation-scribe-loom.md)** — Standardized workflow for building scannable step-by-step guides and concise video walkthroughs to accelerate onboarding and prevent knowledge loss.
 
 ---
 
