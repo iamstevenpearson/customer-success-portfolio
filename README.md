@@ -33,6 +33,7 @@ Practical, repeatable frameworks built to standardize execution across the custo
 * **[Executive Sponsor Change & Champion Departure Playbook](playbooks/champion-departure-playbook.md)** — A 14-day multi-threading and stakeholder stabilization protocol to protect renewal continuity during leadership transitions.
 * **[Expansion & Upsell Discovery Playbook](playbooks/expansion-upsell-playbook.md)** — Usage-based growth signals and consultative discovery workflows that turn high adoption accounts into smooth expansions.
 * **[Enablement & Visual Documentation SOP (Scribe & Loom)](playbooks/processes-sops/sop-visual-documentation-scribe-loom.md)** — Standardized workflow for building scannable step-by-step guides and concise video walkthroughs to accelerate onboarding and prevent knowledge loss.
+* **[Core CSM & Account Management KPIs & Execution Playbook](playbooks/csm-am-kpi-execution-playbook.md)** — Complete scorecard and operational workflows for driving GRR, NRR, product adoption, TTFV, and executive QBR coverage.
 
 ---
 
