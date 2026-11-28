@@ -23,19 +23,23 @@ I'm **Steven Pearson**, a Customer Success and Account Management professional w
 
 ## Featured Playbooks
 
-Practical, repeatable frameworks built to standardize execution across the customer lifecycle:
+Practical, repeatable frameworks built to standardize execution across the customer lifecycle, strengthen account strategy, and improve customer and business outcomes.
 
-* **[Retention & Health Scoring Playbook](playbooks/metrics/kpis-and-outcomes.md)** — A proactive framework for tracking product adoption, renewal readiness, and account health across **$8M+ ARR** portfolios, mitigating renewal risk early, and running outcome-driven cadences.
+* **[AI & Automated Workflow Systems Playbook](playbooks/processes-sops/ai-cs-workflow-automation.md)** — AI-driven insights, automated usage signals, and CRM workflows that support proactive retention and account growth.
+* **[At-Risk Account Turnaround Playbook](playbooks/turnaround-unhappy-customer.md)** — Step-by-step escalation, root-cause stabilization, and executive recovery workflows for turning around at-risk accounts.
+* **[Retention & Health Scoring Playbook](playbooks/metrics/kpis-and-outcomes.md)** — A proactive framework for tracking product adoption, renewal readiness, and account health across $8M+ ARR portfolios, mitigating renewal risk early, and driving consistent cadences.
 * **[30-60-90 Day Onboarding Blueprint (SMB to Enterprise)](playbooks/onboarding-checklist.md)** — A structured implementation playbook featuring standardized Sales-to-CS handoffs, milestone tracking, and early adoption checkpoints to compress time-to-value.
 * **[QBR Preparation & Executive Discovery Guide](playbooks/qbr-questions.md)** — Strategic discovery prompts and executive checklists for tying product usage to executive business outcomes.
-* **[At-Risk Account Turnaround Playbook](playbooks/turnaround-unhappy-customer.md)** — Step-by-step escalation, root-cause stabilization, and executive recovery workflow for turning around at-risk accounts.
+* **[Core CSM & Account Management KPIs & Execution Playbook](playbooks/csm-am-kpi-execution-playbook.md)** — A complete scorecard and operational workflows for driving GRR, NRR, product adoption, TTFV, and executive QBR coverage.
+* **[Expansion & Upsell Discovery Playbook](playbooks/expansion-upsell-playbook.md)** — Usage-based growth signals and consultative discovery workflows that turn high-adoption accounts into expansion opportunities.
 * **[Low Engagement & Silent Churn Re-Engagement Playbook](playbooks/low-engagement-reengagement.md)** — Early usage alerts and hands-on re-engagement workflows that get stalled accounts back on track before renewal.
 * **[Executive Sponsor Change & Champion Departure Playbook](playbooks/champion-departure-playbook.md)** — A 14-day multi-threading and stakeholder stabilization protocol to protect renewal continuity during leadership transitions.
-* **[Expansion & Upsell Discovery Playbook](playbooks/expansion-upsell-playbook.md)** — Usage-based growth signals and consultative discovery workflows that turn high adoption accounts into smooth expansions.
-* **[Enablement & Visual Documentation SOP (Scribe & Loom)](playbooks/processes-sops/sop-visual-documentation-scribe-loom.md)** — Standardized workflow for building scannable step-by-step guides and concise video walkthroughs to accelerate onboarding and prevent knowledge loss.
-* **[Core CSM & Account Management KPIs & Execution Playbook](playbooks/csm-am-kpi-execution-playbook.md)** — Complete scorecard and operational workflows for driving GRR, NRR, product adoption, TTFV, and executive QBR coverage.
-* **[AI & Automated Workflow Systems Playbook](playbooks/processes-sops/ai-cs-workflow-automation.md)** — AI-driven insights, automated usage signals, and CRM workflows that support proactive retention and account growth.
-* **[Cross-Functional Alignment Playbook (Sales, Product, Engineering & AM)](playbooks/cross-functional-alignment-playbook.md)** — Operating rhythms, Sales to CS handoff standards, ARR-weighted Voice of the Customer loops, and escalation governance.
+* **[Cross-Functional Alignment Playbook (Sales, Product, Engineering & AM)](playbooks/cross-functional-alignment-playbook.md)** — Operating rhythms, Sales-to-CS handoff standards, ARR-weighted Voice of the Customer loops, and escalation governance.
+* **[Enablement & Visual Documentation SOP (Scribe & Loom)](playbooks/processes-sops/sop-visual-documentation-scribe-loom.md)** — A standardized workflow for building scannable step-by-step guides and concise video walkthroughs to accelerate onboarding and prevent knowledge loss.
+
+---
+
+*These playbooks combine professional experience with independently developed frameworks. Hypothetical examples are identified as illustrative scenarios.*
 
 ---
 
