@@ -32,7 +32,7 @@
 I'm **Steven Pearson**, a Customer Success and Account Management professional with **18+ years of client-facing experience**, including **10 years in B2B SaaS Customer Success and Account Management**. I specialize in managing complex customer relationships, driving product adoption, strengthening retention, and identifying opportunities for account growth. From high-volume SMB portfolios to enterprise accounts, I bring a relationship-driven, data-informed approach to delivering measurable customer outcomes and long-term business value.
 
 ### Core Impact & Specialties
-* **Revenue Protection & Strategic Growth:** Managed portfolios of **300+ mid-market and enterprise accounts** ($10M+ ARR), maintaining **95%+ gross retention** and structuring **$1M+ multi-year renewals and expansions**.
+* **Revenue Protection & Strategic Growth:** Managed portfolios of **300+ mid-market and enterprise accounts** (~$10M+ ARR), maintaining **95%+ gross retention** and structuring **$1M+ multi-year renewals and expansions**.
 * **Customer Health Monitoring & Risk Prevention:** Built data-driven customer health frameworks for **$8M+ ARR portfolios** to surface churn signals early and trigger targeted intervention plays.
 * **Scalable Onboarding & Enablement:** Designed repeatable **30-60-90 day implementation blueprints** for SMB through enterprise segments, accelerating product adoption by **25%–35%**.
 * **Executive Alignment & CS Ops:** Led C-suite Quarterly Business Reviews (QBRs) and standardized cross-functional handoffs across **Salesforce, HubSpot, Zoho, Zendesk, Looker, and Jira**.
