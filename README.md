@@ -34,6 +34,7 @@ Practical, repeatable frameworks built to standardize execution across the custo
 * **[Expansion & Upsell Discovery Playbook](playbooks/expansion-upsell-playbook.md)** — Usage-based growth signals and consultative discovery workflows that turn high adoption accounts into smooth expansions.
 * **[Enablement & Visual Documentation SOP (Scribe & Loom)](playbooks/processes-sops/sop-visual-documentation-scribe-loom.md)** — Standardized workflow for building scannable step-by-step guides and concise video walkthroughs to accelerate onboarding and prevent knowledge loss.
 * **[Core CSM & Account Management KPIs & Execution Playbook](playbooks/csm-am-kpi-execution-playbook.md)** — Complete scorecard and operational workflows for driving GRR, NRR, product adoption, TTFV, and executive QBR coverage.
+* **[AI & Automated Workflow Systems Playbook](playbooks/ai-cs-workflow-automation.md)** — AI-driven insights, automated usage signals, and CRM workflows that support proactive retention and account growth.
 
 ---
 
