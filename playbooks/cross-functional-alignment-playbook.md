@@ -32,7 +32,7 @@
 
 ---
 
-## 3. Escalation & Governance Guardrails
+## 3. Escalation & Oversight Guidelines
 
 * **Single Source of Truth:** Document all handoff notes, escalation owners, product tickets, and renewal commitments inside CRM (Salesforce, HubSpot, Gainsight, or Vitally) so every team operates from identical account context.
 * **No Surprises Forecasting:** Flag any technical blocker or product gap threatening a renewal at least 90 days out so Product, Engineering, and AM leadership can intervene proactively.
