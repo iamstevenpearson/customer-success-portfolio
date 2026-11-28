@@ -62,12 +62,15 @@ Operational systems designed to eliminate friction, standardize execution, and s
 
 ## Customer-Facing Examples
 
-Templates and visual assets used directly with external stakeholders:
+Templates and visual assets designed for direct use with customers, executive stakeholders, and cross-functional account teams:
 
-* **[Executive QBR Deck](assets/qbr-deck.pdf):** Structured presentation framework covering business objectives, adoption KPIs, ROI milestones, and joint forward roadmaps.
-* **[Mutual Success Plan Template](playbooks/customer-facing-examples/mutual-success-plan.md):** Shared accountability tracker aligning client stakeholders and internal teams on launch deliverables and target outcomes.
-* **[Customer Release Notes & Enablement Briefs](playbooks/customer-facing-examples/customer-release-notes.md):** Clear, outcome-focused product update templates built to drive feature adoption rather than just listing specs.
-* **[Executive Renewal & ROI Value Summary](playbooks/customer-facing-examples/executive-renewal-summary.md):** Pre-renewal executive readout quantifying delivered ROI, adoption milestones, and multi-year commercial options.
+- **[Executive QBR Deck](https://github.com/iamstevenpearson/customer-success-portfolio/blob/main/assets/qbr-deck.pdf):** Structured presentation framework covering business objectives, adoption KPIs, ROI milestones, and joint forward roadmaps.
+
+- **[Mutual Success Plan Template](https://github.com/iamstevenpearson/customer-success-portfolio/blob/main/playbooks/customer-facing-examples/mutual-success-plan.md):** Shared accountability tracker aligning client stakeholders and internal teams on launch deliverables and target outcomes.
+
+- **[Executive Renewal & ROI Value Summary](https://github.com/iamstevenpearson/customer-success-portfolio/blob/main/playbooks/customer-facing-examples/executive-renewal-summary.md):** Pre-renewal executive readout quantifying delivered ROI, adoption milestones, and multi-year commercial options.
+
+- **[Customer Release Notes & Enablement Briefs](https://github.com/iamstevenpearson/customer-success-portfolio/blob/main/playbooks/customer-facing-examples/customer-release-notes.md):** Clear, outcome-focused product update templates built to drive feature adoption rather than just listing specifications.
 
 ---
 
