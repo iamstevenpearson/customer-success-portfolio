@@ -2,10 +2,26 @@
 
 # Customer Success & Account Strategy Portfolio
 
-[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-Notion-5B2C6F?style=for-the-badge&logo=notion&logoColor=white)](https://stevenpearson.notion.site/Steven-Pearson-Customer-Success-Account-Strategy-4249c1391d6980d5a0aec01ea6458608)
-[![Playbooks](https://img.shields.io/badge/Playbooks-Retention_%26_Onboarding-4A235A?style=for-the-badge)](#-featured-playbooks)
-[![Processes & SOPs](https://img.shields.io/badge/Systems-Workflows_%26_SOPs-6C3483?style=for-the-badge)](#-processes--sops)
-[![Customer Assets](https://img.shields.io/badge/Assets-QBR_%26_Success_Plans-7D3C98?style=for-the-badge)](#-customer-facing-examples)
+<p align="center">
+  <a href="https://stevenpearson.notion.site/Steven-Pearson-Customer-Success-Account-Strategy-4249c1391d6980d5a0aec01ea6458608">
+    <img src="https://img.shields.io/badge/live%20portfolio-Notion-5B2C6F?logo=notion&logoColor=white" alt="Live Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/stevenpearsonjr">
+    <img src="https://img.shields.io/badge/linkedin-Steven%20Pearson-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="#-featured-playbooks">
+    <img src="https://img.shields.io/badge/playbooks-Retention%20%26%20Onboarding-4A235A" alt="Playbooks" />
+  </a>
+  <a href="#-processes--sops">
+    <img src="https://img.shields.io/badge/systems-Workflows%20%26%20SOPs-6C3483" alt="Processes & SOPs" />
+  </a>
+  <a href="#-customer-facing-examples">
+    <img src="https://img.shields.io/badge/assets-QBR%20%26%20Success%20Plans-7D3C98" alt="Customer Assets" />
+  </a>
+  <a href="https://github.com/iamstevenpearson/customer-success-portfolio/releases">
+    <img src="https://img.shields.io/github/v/release/iamstevenpearson/customer-success-portfolio?label=release&color=5B2C6F" alt="Release" />
+  </a>
+</p>
 
 > **View the full interactive version:** [Steven Pearson — Customer Success & Account Strategy (Notion)](https://stevenpearson.notion.site/Steven-Pearson-Customer-Success-Account-Strategy-4249c1391d6980d5a0aec01ea6458608)
 
